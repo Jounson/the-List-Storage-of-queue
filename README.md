@@ -1,2 +1,2 @@
 # the-List-Storage-of-queue
-实现了栈的链式存储
+队列的链式存储
